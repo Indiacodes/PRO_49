@@ -1,0 +1,40 @@
+BallRamper
+
+PC - A Ball 
+
+NPC - Starting Platform, Ramps, Coins, Portal(End Target).
+
+RULES - 1. Should collect coins.
+
+2. Reach portal at the end of the level.
+
+3. Score based on coins collected.
+
+4. Player dies if he falls on the base platform.
+
+5. Player has 3 hearts for a level.
+
+ADAPTIVITY - 1. no control after a certain position.
+
+2. nitro
+
+FEEDBACK - 1. Scores
+
+2. Sounds
+
+GAME GOAL - 1. Reach the portal at the end of the level.
+
+GAME MECHANISM - 1. Keys to move forward right arrow.
+
+2. Keys to activate nitro n.
+
+3. No control after some position at the end of the ramp.
+
+--------------------------------------------------------------
+
+Images
+
+1. Player
+2. Background
+3. Coins 
+4. Poratl
